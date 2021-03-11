@@ -6,7 +6,7 @@ LABEL "com.github.actions.icon"="refresh-cw"
 LABEL "com.github.actions.color"="green"
 
 LABEL version="0.1.0"
-LABEL repository="https://github.com/idlefingers/do-space-sync-action"
+LABEL repository="https://github.com/goshiz/do-space-sync-action"
 LABEL homepage="https://damientimewell.com"
 LABEL maintainer="Damien Timewell <hello@damientimewell.com>"
 
